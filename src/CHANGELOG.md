@@ -1,5 +1,11 @@
 # viem
 
+## 2.38.6
+
+### Patch Changes
+
+- [#4061](https://github.com/wevm/viem/pull/4061) [`7efb234a7396002b1a911ff4bfbd809c76d3acc1`](https://github.com/wevm/viem/commit/7efb234a7396002b1a911ff4bfbd809c76d3acc1) Thanks [@Blessing-Circle](https://github.com/Blessing-Circle)! - Added Arc Testnet chain.
+
 ## 2.38.5
 
 ### Patch Changes
